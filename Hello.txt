@@ -1,2 +1,8 @@
-Thia is my first repository
+This is my first repository
 Hello everyone 
+About this project
+this repository was entered as part of my Grade 9 DTI pratical
+LEARNING GOLAS
+learn about GitHub create a repository
+Add files 
+Make commits
